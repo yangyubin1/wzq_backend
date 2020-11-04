@@ -1,0 +1,11 @@
+server:
+  port: 5556
+
+redis:
+  addr: 119.45.63.52:6379
+  pwd:
+
+mongodb:
+  addr: 119.45.63.52:27017
+  db: gobang
+  collection: log

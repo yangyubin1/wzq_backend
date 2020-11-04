@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1d67664-71af-446e-9b96-75a50b560f38" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Z7aLGfQYbyHmK6RaWYGcfhVvQx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.go" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go run main.go">
+    <configuration name="go build myTest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test/myTest.go" />
+      <package value="gobang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go run main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="gobang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="GO111MODULE" value="on" />
+        <env name="GOPROXY" value="https://mirrors.aliyun.com/goproxy/" />
+      </envs>
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="gobang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCheckFiveOfLastStep in gobang/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gobang" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="gobang/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCheckFiveOfLastStep$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInteger in gobang/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gobang" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="gobang/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestInteger$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSend2PId in gobang/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gobang" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="gobang/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSend2PId$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test gobang/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gobang" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="gobang/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go run main.go" />
+      <item itemvalue="Go Build.go build myTest.go" />
+      <item itemvalue="Go Test.TestCheckFiveOfLastStep in gobang/test" />
+      <item itemvalue="Go Test.TestInteger in gobang/test" />
+      <item itemvalue="Go Test.TestSend2PId in gobang/test" />
+      <item itemvalue="Go Test.go test gobang/test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go run main.go" />
+        <item itemvalue="Go Build.go build myTest.go" />
+        <item itemvalue="Go Test.go test gobang/test" />
+        <item itemvalue="Go Test.TestCheckFiveOfLastStep in gobang/test" />
+        <item itemvalue="Go Test.TestInteger in gobang/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Go_Modules_(vgo)" timestamp="1584192831756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Go_Modules_(vgo)/0.0.1536.824@0.0.1536.824" timestamp="1584192831756" />
+    <state x="524" y="207" key="#Notifications" timestamp="1586223989177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="207" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1586223989177" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586793188433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586793188433" />
+    <state x="680" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1586486869097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584786422871" />
+    <state x="680" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586486869097" />
+    <state x="425" y="189" key="EditFileWatcherDialog" timestamp="1584451256894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="189" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1584451256894" />
+    <state x="547" y="142" key="FileChooserDialogImpl" timestamp="1585368228903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="142" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585368228903" />
+    <state width="1340" height="264" key="GridCell.Tab.0.bottom" timestamp="1586939842074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586797015279" />
+    <state width="1340" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586939842074" />
+    <state width="1340" height="264" key="GridCell.Tab.0.center" timestamp="1586939842074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586797015279" />
+    <state width="1340" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586939842074" />
+    <state width="1340" height="264" key="GridCell.Tab.0.left" timestamp="1586939842074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586797015279" />
+    <state width="1340" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586939842074" />
+    <state width="1340" height="264" key="GridCell.Tab.0.right" timestamp="1586939842074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586797015279" />
+    <state width="1340" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586939842074" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1586013493293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586013493293" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1586013493292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586013493292" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1586013493292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586013493292" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1586013493293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586013493293" />
+    <state x="338" y="69" key="SettingsEditor" timestamp="1585622032321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585368699494" />
+    <state x="338" y="69" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585622032321" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1584962882871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584962882871" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/redis/pool.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/service/room_service.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
